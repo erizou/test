@@ -1,0 +1,34 @@
+{
+  "favorability": {
+    "ichiro": {
+      "jiro": 2,
+      "saburota": 3,
+      "shino": 3,
+      "itsuki": 2
+    },
+    "jiro": {
+      "ichiro": 2,
+      "saburota": 2,
+      "shino": 2,
+      "itsuki": 2
+    },
+    "saburota": {
+      "ichiro": 4,
+      "jiro": 3,
+      "shino": 2,
+      "itsuki": 2
+    },
+    "shino": {
+      "jiro": 3,
+      "itsuki": 1,
+      "ichiro": 2,
+      "saburota": 2
+    },
+    "itsuki": {
+      "shino": 4,
+      "saburota": 2,
+      "ichiro": 2,
+      "jiro": 2
+    }
+  }
+}
